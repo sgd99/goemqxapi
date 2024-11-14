@@ -1,3 +1,3 @@
-module go-emqxapi
+module github.com/sgd99/go-emqxapi
 
-go 1.23.1
+go 1.18
