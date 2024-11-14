@@ -3,7 +3,7 @@ package goemqxapi_test
 import (
 	"testing"
 
-	"gitee.com/sgd99/goemqxapi"
+	"github.com/sgd99/goemqxapi"
 )
 
 func TestClientsReq(t *testing.T) {
